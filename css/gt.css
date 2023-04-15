@@ -1,0 +1,130 @@
+
+
+
+body {
+    padding: 0px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+.container>div>article {
+    background-color:#aaa;
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+}
+
+header {
+    position: relative;
+}
+
+.ar-left{
+    padding-left: 20px;
+}
+
+.navbar.navbar-default{
+    position: fixed;
+    z-index: 10;
+    width: 75%;
+    top: 0;
+}
+
+.navbar-brand {
+    font-size: 14px;
+    color: blue;
+}
+
+.navbar.navbar-default {
+    background-color:#d8d5d5;
+    width: 98%;
+    margin-left: 1%;
+    
+}
+
+.poly-sheet{
+    box-shadow:0 0 1px lightgray;
+    border-radius:5px;
+    padding:5px;
+    position:relative;
+    top:-10px;
+}
+
+.poly-sheet > article.col-sm-9, .poly-sheet > aside.col-sm-3{
+	padding: 5px;
+}
+
+.carousel-inner img{
+    margin: 0 auto;
+    height: 300px;
+    max-width: 95%;
+}
+.carousel-caption{
+    margin-top: 20px;
+    color: black;
+}
+#accordion .panel-heading{
+    cursor: pointer;
+}
+.image img{
+    width: 96%;
+    height: 600px;
+}
+.slide{
+    padding-top: 7.5%;
+}
+.logo{
+    width:100px;
+    height: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 40px;
+}
+
+.nut-thucdon1{
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+}
+.btn{
+    border-radius: 50px;
+    background-color:aqua;
+}
+.btn:hover{
+    background-color: red;
+}
+.FOOT-1{
+    padding-right: 20%;
+}
+.thucdon1>h2 {
+    color: rgb(225, 228, 235);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.thucdon1 p {
+    color: rgb(235, 238, 243);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.thucdon2>h3 {
+    color: rgb(225, 228, 235);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+.thucdon2{
+    padding-top: 20px;
+}
+.thucdon2 img{
+    width: 100px;
+    height: 100px;
+}
+.mon-thuc-don{
+    padding-top: 20px;
+}
+.ttap li {
+    margin-top: 25px;
+}
+.img-fluid{
+    padding-top: 2%;
+}
+.bb{
+    padding-bottom: 2%;
+}

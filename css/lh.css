@@ -1,0 +1,181 @@
+.thongtin>h5{
+    font-size: 16px;
+    padding-left: 70px;
+    color: black;
+}
+.thongtin>h3{ 
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: black;
+    font-weight: 700;
+    margin-left: 10%;
+}
+.thongtin{
+    margin-top: 30px;
+    margin-right: 25%;
+}
+.contact-body{
+    width: 100%;
+    height: 800px;
+    color: rgb(11, 11, 11);
+}
+.lienhe-body{
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-top: 20px;
+}
+.lienhe-from{
+    border:1px solid;
+}
+.lienhe-from label{
+    margin-top: 20px;
+    margin-left: -20%;
+}
+
+.lienhe-from button{
+    margin-top: 20px;
+    background: rgb(239, 232, 232);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(11, 11, 11);
+}
+.lienhe-from button:hover{
+    
+    background: rgb(247, 244, 244);
+}
+.section-title{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: black;
+}
+.lienhe-from label{
+    padding-right: 70%;
+    
+}
+.hr1{
+    color: rgb(176, 19, 19);
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+.container{
+    width: 95%;
+    width: 800px;
+}
+
+.nut{
+    margin-left: 15%;
+}
+.nut1{
+    margin-left: 90%;
+    margin-bottom: 20px;
+    width: 20px;
+}
+.lienhe-1{
+    border-style: double;
+    border-width: 5px;
+}
+.ar-left{
+    padding-left: 20px;
+}
+
+.navbar.navbar-default{
+    position: fixed;
+    z-index: 10;
+    width: 75%;
+    top: 0;
+}
+
+.navbar-brand {
+    font-size: 14px;
+    color: rgb(15, 15, 16);
+}
+
+.navbar.navbar-default {
+    background-color:#d8d5d5;
+    width: 98%;
+    margin-left: 1%;
+    
+}
+
+.poly-sheet{
+    box-shadow:0 0 1px lightgray;
+    border-radius:5px;
+    padding:5px;
+    position:relative;
+    top:-10px;
+}
+
+.poly-sheet > article.col-sm-9, .poly-sheet > aside.col-sm-3{
+	padding: 5px;
+}
+
+.carousel-inner img{
+    margin: 0 auto;
+    height: 300px;
+    max-width: 95%;
+}
+.carousel-caption{
+    margin-top: 20px;
+    color: black;
+}
+#accordion .panel-heading{
+    cursor: pointer;
+}
+.image img{
+    width: 96%;
+    height: 600px;
+}
+.slide{
+    padding-top: 7.5%;
+}
+.logo{
+    width:100px;
+    height: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 40px;
+}
+
+.nut-thucdon1{
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+}
+.btn{
+    border-radius: 50px;
+    background-color:aqua;
+}
+.btn:hover{
+    background-color: red;
+}
+.FOOT-1{
+    padding-right: 20%;
+}
+.thucdon1>h2 {
+    color: rgb(14, 14, 14);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.thucdon1 p {
+    color: rgb(14, 14, 14);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.thucdon2>h3 {
+    color: rgb(14, 14, 14);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+.thucdon2{
+    padding-top: 20px;
+}
+.thucdon2 img{
+    width: 100px;
+    height: 100px;
+}
+.mon-thuc-don{
+    padding-top: 20px;
+}
+.ttap li {
+    margin-top: 25px;
+}
